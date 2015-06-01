@@ -50,7 +50,7 @@ function loop_navigation_path_breadcrumbs_settings_info() {
       0 => '%term',
     ),
     'paths' => array(
-      0 => '%term',
+      0 => '%term:url',
     ),
     'home' => 1,
     'translatable' => 0,
